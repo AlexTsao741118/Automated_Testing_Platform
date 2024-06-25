@@ -9,7 +9,7 @@ import * as ElementPlusIconsVue from '@element-plus/icons-vue'
 // 導入暗黑模式主題
 import 'element-plus/theme-chalk/dark/css-vars.css'
 // 導入項目的全局css樣式文件
-import 'style/global.css'
+import '@/style/global.scss'
 
 // 創建一個應用
 const app = createApp(App)
