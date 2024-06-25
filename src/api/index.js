@@ -34,5 +34,5 @@ axios.interceptors.response.use(function (response) {
 
 // 後端請求的接口
 export default {
-
+  
 }
